@@ -1,0 +1,1 @@
+print("qanqa soat taqasan")
